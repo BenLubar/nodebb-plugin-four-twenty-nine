@@ -1,0 +1,18 @@
+{
+  "name": "nodebb-plugin-four-twenty-nine",
+  "version": "0.0.0",
+  "description": "Configurable request rate limiting plugin for NodeBB",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenLubar/nodebb-plugin-four-twenty-nine.git"
+  },
+  "author": "Ben Lubar <ben.lubar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BenLubar/nodebb-plugin-four-twenty-nine/issues"
+  },
+  "homepage": "https://github.com/BenLubar/nodebb-plugin-four-twenty-nine#readme",
+  "nbbpm": {
+    "compatibility": "^1.5.0"
+  }
+}
